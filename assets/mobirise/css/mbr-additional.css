@@ -2407,6 +2407,32 @@ section.lazy-placeholder:after {
 .cid-s6zqOo2A4A .mbr-section-btn {
   color: #232323;
 }
+.cid-s6HqmSqZNL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/whatsapp-image-2020-08-01-at-11.27.48-am.jpeg");
+}
+.cid-s6HqmSqZNL .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s6HqmSqZNL .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s6HqmSqZNL .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s6HqmSqZNL .mbr-text {
+    text-align: center;
+  }
+}
 .cid-s3Wb2FgjRC {
   padding-top: 90px;
   padding-bottom: 90px;
