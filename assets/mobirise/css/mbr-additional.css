@@ -2887,6 +2887,18 @@ section.lazy-placeholder:after {
 .cid-s3jaxbqvkH {
   background-image: url("../../../assets/images/whatsapp-image-2020-08-01-at-11.27.55-am.jpeg");
 }
+.cid-s6TLqnjSSB {
+  background: #ffffff;
+}
+.cid-s6TLqnjSSB .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s6TLqnjSSB .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s6LO3SGFyJ {
   padding-top: 90px;
   padding-bottom: 90px;
